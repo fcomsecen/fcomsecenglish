@@ -1,0 +1,139 @@
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+    #body1 {
+        background-color: black;
+        font-family: 'Open Sans', sans-serif;
+        background-attachment: fixed;
+    }
+    
+    .arkaplan {
+        position: ;
+    }
+    
+    nav.stroke ul li a:hover:after {
+        width: 100%;
+    }
+    
+    nav.fill ul li a {
+        transition: all 2s;
+    }
+    
+    .btn {
+        background-color: darkcyan;
+        color: white;
+        cursor: pointer;
+        font-weight: 700;
+        font-size: 16px;
+        font-family: 'Roboto Condensed', sans-serif;
+        width: 150px;
+        height: 50px;
+        border-radius: 30px;
+        border: none;
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .35);
+        margin-top: 10px;
+    }
+    
+    .btn-left {
+        float: left;
+    }
+    
+    .ml-3 {
+        float: right;
+    }
+    
+    .btn2 {
+        background-color: darkgreen;
+        color: white;
+        cursor: pointer;
+        font-weight: 700;
+        font-size: 16px;
+        font-family: 'Roboto Condensed', sans-serif;
+        width: 150px;
+        height: 50px;
+        border-radius: 30px;
+        border: none;
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .35);
+        margin-top: 10px;
+    }
+    
+    .btn-left2 {
+        float: left;
+    }
+    
+    .mlgs-3 {
+        float: right;
+        margin-left: 10px;
+    }
+    
+    .sidebar {
+        margin-left: 50px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 50px;
+        height: 105%;
+        background-color: black;
+        box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .35);
+    }
+    
+    .title {
+        color: white;
+        font-weight: 700;
+        font-size: 35px;
+        font-family: 'Roboto Condensed', sans-serif;
+        text-align: center;
+    }
+    
+    .login-form {
+        display: table;
+        margin: auto;
+    }
+    
+    .form-group {
+        margin-bottom: 1px;
+    }
+    
+    .form-control {
+        width: 290px;
+        padding: 10px;
+        color: black;
+        border-radius: 3px;
+        border: 1px solid #000000;
+    }
+    
+    .form-control:focus {
+        border: 1px solid #1e43e7;
+    }
+    
+    .btn1 {
+        background-color: aqua;
+        color: black;
+        cursor: pointer;
+        font-weight: 700;
+        font-size: 16px;
+        font-family: 'Roboto Condensed', sans-serif;
+        width: 150px;
+        height: 50px;
+        border-radius: 3px;
+        border: none;
+        margin-top: 10px;
+    }
+    
+    .btn-left1 {
+        float: left;
+    }
+    
+    .mlg-3 {
+        margin-left: 5px;
+    }
+    
+    .pa {
+        color: brown;
+        margin-left: 190px;
+        margin-top: 20px;
+    }
+    
+    .slider2 {
+        padding: 1px;
+        margin-bottom: auto;
+    }
